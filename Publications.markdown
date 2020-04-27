@@ -7,10 +7,10 @@ permalink: /Publications/
 <ol reversed>
 
 <li>
-<strong>D. Maestrini D.</strong>, T. Chou, M.R. D’Orsogna, A mathematical model of “wanting”, “liking”, and brain reward circuitry in drug addiction. In preparation.</li>
+<strong>D. Maestrini</strong>, T. Chou, M.R. D’Orsogna, A mathematical model of “wanting”, “liking”, and brain reward circuitry in drug addiction. In preparation.</li>
 
 <li>
-<strong>D. Maestrini D.</strong>, S. Branciamore, M. Caselle, R.R. Rockne, On the concept of epigenetic temperature. In preparation.</li>
+<strong>D. Maestrini</strong>, S. Branciamore, M. Caselle, R.R. Rockne, On the concept of epigenetic temperature. In preparation.</li>
 
 <li> P. Sahoo, X. Yang, D. Abler, <strong> D. Maestrini </strong>, V. Adhikarla, D. Frankhouser, H. Cho, V. Machuca, D. Wang, M. Barish, M. Gutova, S. Branciamore, C. E. Brown, and R. C. Rockne <br>
 <a href="/Papers/Rsif2019.pdf">Mathematical deconvolution of CAR T-cell proliferation and exhaustion from real-time killing assay data.</a>
