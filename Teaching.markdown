@@ -7,7 +7,7 @@ permalink: /Teaching/
 
 <ul>
 	<li> February 2019 - July 2019 <br>
-	<p align="justify"> Lecturer for the Mathematical Modeling and Methods for Biomedical Science at <a href="https://www.cityofhope.org/education/irell-and-manella-graduate-school-of-biological-sciences
+	<p align="justify"> Lecturer for the module "Mathematical Modeling and Methods for Biomedical Science" at <a href="https://www.cityofhope.org/education/irell-and-manella-graduate-school-of-biological-sciences
 	">Irell and Manella Graduate School of Biological Science</a>, Duarte, CA, USA.<p>
 	<li> 2017-2019<br>
 	<p align="justify"> Series of seminars on Stochastic Differential Equations and dimensional reduction techniques (principal component analysis (PCA), local linear embedding (LLE), heat map, t-distributed stochastic neighbor embedding (t-SNE), and hierarchical stochastic neighbor embedding HSNE)) at City of Hope, Division of Mathematical Oncology.</p>
