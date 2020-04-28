@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Davide Maestrini's Webpage
+title: Davide Maestrini
 email: dmaestrini@ucla.edu
 description: Davide Maestrini's research webpage, as part of Tom Chou Lab at UCLA
 baseurl: "dmaestrini.github.io" # the subpath of your site, e.g. /blog
