@@ -21,9 +21,9 @@ permalink: /CV/
 <h2>Education</h2>
 
 <ul>
-	<li> Ph.D. Applied Mathematics<br> University of East Anglia, Norwich, UK		Italy.</li>
-	<li> Laurea Magistrale (Master's degree) in Physics of Fundamental Interactions (Theoretical Physics)<br> Universit&agrave; degli Studi di Torino,		Italy.</li>
-	<li> Laurea Triennale (Bachelor's degree) in Physics<br> Universit&agrave; degli Studi di Torino,		Italy.</li>
+	<li> Ph.D. Applied Mathematics<br> University of East Anglia, Norwich, UK.</li>
+	<li> Laurea Magistrale (Master's degree) in Physics of Fundamental Interactions (Theoretical Physics)<br> Universit&agrave; degli Studi di Torino, Italy.</li>
+	<li> Laurea Triennale (Bachelor's degree) in Physics<br> Universit&agrave; degli Studi di Torino, Italy.</li>
 </ul>
 
 
