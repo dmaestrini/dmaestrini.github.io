@@ -36,9 +36,8 @@ permalink: /Research/
 <h3> Bose-Einstein condensates and quantum fluids</h3>
 <p align="justify">During my Ph.D I focused on studying the dynamics and the relaxation of a vortex gas from a non-equilibrium initial condition consisting of vortices and antivortices in a two-dimensional Bose Einstein condensate. 
 You can find all details in my Ph.D. thesis by clicking <a href="/Files/All_In_One.pdf">here.</a>
-<video width="400" controls>
-  <source src="Von_Karman_Wake.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+
+<video poster="color.jpg" width="618" height="347" controls preload> <source src="Von_Karman_Wake.mp4" media="only screen and (min-device-width: 568px)"></source> 
 </video>
 
 </p>
