@@ -15,6 +15,13 @@ permalink: /Publications/
 <li>R. Dessalles, Y. Pan, M. Xia, <strong>D. Maestrini</strong>, M. R. D’Orsogna, and T. Chou.
 	How heterogeneous thymic output and homeostatic proliferation shape naive T2 cell receptor clone abundance distributions. In preparation.</li>
 
+
+<li> R. C. Rockne, S. Branciamore, J. Qi, D. E. Frankhouser, D. O'Meally, W.-K. Hua,	G. Cook, E/ Carnahan, L. Zhang, A. Marom, H. Wu, <strong>D. Maestrini</strong>,X. Wu, Y.-C. Yuan, Z. Liu., L. D. Wang, S. Forman, N. Carlesso,Y.-H. Kuo, and G. Marcucci<br>
+<a href="/Papers/CancerResearch2020.pdf">State-Transition Analysis of Time-Sequential GeneExpression Identifies Critical Points That Predict Development of Acute Myeloid Leukemia.</a>
+  Cancer Research, Vol. 80, number 15:3157-3169 (2020), doi: 10.1158/0008-5472.CAN-20-0354
+	</li>
+
+
 <li> P. Sahoo, X. Yang, D. Abler, <strong> D. Maestrini </strong>, V. Adhikarla, D. Frankhouser, H. Cho, V. Machuca, D. Wang, M. Barish, M. Gutova, S. Branciamore, C. E. Brown, and R. C. Rockne <br>
 <a href="/Papers/Rsif2019.pdf">Mathematical deconvolution of CAR T-cell proliferation and exhaustion from real-time killing assay data.</a>
   J. R. Soc. Interface. 17:20190734, doi: http://doi.org/10.1098/rsif.2019.0734
