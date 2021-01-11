@@ -17,7 +17,7 @@ permalink: /Teaching/
 		<p align="justify"> As a Learning Enhancement Tutor for Mathematics and Statistics at University of East Anglia, I taught undergraduate seminars for students enrolled in Chemistry, Economics, Environmental Sciences, and Biology programs.</p>
 	<li> September 2012- December 2016 <br>
 		<p align="justify"> As an associate Tutor at University of East Anglia, I taught undergraduate modules for Math students such as Linear Algebra, Calculus, Multivariable Calculus, Ordinary Differential Equations, Partial Differential Equations, Mechanics, and Quantum Mechanics.</p>
-	<li> 2013 - 2017<br>
+	<li> 2012 - 2016<br>
 		 <p align="justify"> I was invited by Prof. <a href="http://personalpages.to.infn.it/~onorato/Home.html"> Miguel Onorato</a> from Universit&agrave; degli Studi di Torino to give lectures on the topic of superfluids and Bose-Einstein condensates to undergraduate and graduate students enrolled in the Physics department.</p>
 
 
