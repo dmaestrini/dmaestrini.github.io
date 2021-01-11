@@ -7,7 +7,6 @@ permalink: /Research/
 <h3>Drug Addiction</h3>
 <p align="justify">I am currently working on a project on drug addictions which combines the opponent process theory and the so called reward prediction error (RPE), a crucial mechanism involved in the process of learning which shapes our behaviors in order to maximize overall positive experiences. In our mode, the RPE can be represented as a surface which is divided in two regions:  the first one associated with a positive value of the RPE, and the second one associated with a negative value of RPE. The dynamics associated with naïve drug users is represented by a trajectory lying in the first region but, with time and repeated exposure to drugs of abuse, the trajectory will enter and remain into the second region defining the state of addiction.</p>
 <img src="/Files/3.pdf" alt="3" width="240">
-<img src="/Files/3.pdf" alt="3" width="240">
 <img src="/Files/WW4.pdf" alt="WW4" width="240">
 <!--img src="/Files/WW4.pdf" alt="ww4" width="240"-->
 <img src="/Files/surface.gif" alt="surface" width="240">
@@ -21,7 +20,7 @@ permalink: /Research/
 
  <p align="justify">More recently I worked on a project in which we developed a mathematical model of predator–prey dynamics to explore the kinetics of CAR T-cell killing in glioma: the Chimeric Antigen Receptor T-cell treatment Response in GliOma (CARRGO) model.The model includes rates of cancer cell proliferation, CAR T-cell killing, proliferation, exhaustion, and persistence. We use patient-derived and engineered cancer cell lines with an in vitro real-time cell analyzer to parametrize the model. This model highlights nonlinear dynamics involved in CAR T-cell therapy and provides novel insights into the kinetics of CAR T-cell killing. The model suggests that CAR T-cell treatment may be tailored to individual tumor characteristics including tumor growth rate and antigen level to maximize therapeutic benefit.
  </p> 
- <img src="/Files/cart.pdf" alt="cart" width="773" height="266">
+ <img src="/Files/cart.eps" alt="cart" width="773" height="266">
 
 <h3>DNA Methylation and disease development</h3>
 <p align="justify">DNA methylation plays an important role in the development and progression of many common diseases. I am currently working on the extension of the concept of thermodynamics temperature to the DNA methylation state of the genome. In order to do so, I apply the Ising model and the statistical mechanics of phase transitions to study the correlation function associated with a sequence of methylated or unmethylated sites in the genome with data collected from the peripheral blood of a mouse model of acute myeloid leukemia. In this framework, aging and disease development, can be seen as a time evolution of a thermodynamic system characterized by a well-defined thermodynamic temperature and information, or Shannon, entropy. Preliminary results shown that time evolution of this last quantity can be used to describe the progression of acute myeloid leukemia. I am also interested in extending this approach to study chromosome organization with a particular note of interest on the topic of X Chromosome inactivation.
