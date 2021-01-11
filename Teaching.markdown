@@ -6,6 +6,8 @@ permalink: /Teaching/
 
 
 <ul>
+	<li> August 2020 - January 2021 <br>
+	<p align="justify"> Series of seminars on Pavlovian conditioning, neural networks, Hebbian learning, Rescorla-Wagner model, Markov Decision Processes, Reinforcement Learning.</p>
 	<li> February 2019 - July 2019 <br>
 	<p align="justify"> Lecturer for the module "Mathematical Modeling and Methods for Biomedical Science" at <a href="https://www.cityofhope.org/education/irell-and-manella-graduate-school-of-biological-sciences
 	">Irell and Manella Graduate School of Biological Science</a>, Duarte, CA, USA.<p>
