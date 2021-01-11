@@ -15,7 +15,10 @@ permalink: /Research/
 <h3>Cancer Dynamics</h3>
 <p align="justify">I worked on developing mathematical model of Acute Myeloid Leukemia (AML) which allows to describe and to predict the evolution of the disease. Instead of tracking hundreds to tens of thousands of changes in specific sets of genes, we consider the state of the genome as a particle undergoing Brownian motion in a double-well energy potential with two stable states (i.e., normal hematopoiesis and leukemia). Leukemogenic events alter the potential so that the energy barrier is lowered and the probability of the transcriptome particle moving from one stable state to another, i.e. from health to leukemia, is increased. This approach provides a novel approach to interpret and predict changes in gene expression over time as well as introduces the novel concept of an leukemogenic (oncogenic) force which determines the dynamics of state transition from health to leukemia. 
 </p>
-<img src="/Files/Potential.jpg" alt="potential" width="800">
+
+<img src="/Files/Potential.jpg" alt="potential" width="365">
+<img src="/Files/FP.jpg" alt="FP" width="365">
+
 <!--img src="/Files/FP.pdf" alt="cart" width="450"-->
 
  <p align="justify">More recently I worked on a project in which we developed a mathematical model of predator–prey dynamics to explore the kinetics of CAR T-cell killing in glioma: the Chimeric Antigen Receptor T-cell treatment Response in GliOma (CARRGO) model.The model includes rates of cancer cell proliferation, CAR T-cell killing, proliferation, exhaustion, and persistence. We use patient-derived and engineered cancer cell lines with an in vitro real-time cell analyzer to parametrize the model. This model highlights nonlinear dynamics involved in CAR T-cell therapy and provides novel insights into the kinetics of CAR T-cell killing. The model suggests that CAR T-cell treatment may be tailored to individual tumor characteristics including tumor growth rate and antigen level to maximize therapeutic benefit.
