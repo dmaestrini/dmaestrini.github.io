@@ -7,6 +7,7 @@ permalink: /Research/
 <h3>Drug Addiction</h3>
 <p align="justify">I am currently working on a project on drug addictions which combines the opponent process theory and the so called reward prediction error (RPE), a crucial mechanism involved in the process of learning which shapes our behaviors in order to maximize overall positive experiences. In our mode, the RPE can be represented as a surface which is divided in two regions:  the first one associated with a positive value of the RPE, and the second one associated with a negative value of RPE. The dynamics associated with naïve drug users is represented by a trajectory lying in the first region but, with time and repeated exposure to drugs of abuse, the trajectory will enter and remain into the second region defining the state of addiction.</p>
 <img src="/Files/3.pdf" alt="3" width="240">
+<img src="/Files/3.pdf" alt="3" width="240">
 <img src="/Files/WW4.pdf" alt="WW4" width="240">
 <!--img src="/Files/WW4.pdf" alt="ww4" width="240"-->
 <img src="/Files/surface.gif" alt="surface" width="240">
